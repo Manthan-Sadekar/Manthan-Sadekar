@@ -1,4 +1,4 @@
-About Me:
+# About Me:
 - Been on Earth since: 17 Years 
 - Currently in High school
 - In recent past learning Image/Vid processing
