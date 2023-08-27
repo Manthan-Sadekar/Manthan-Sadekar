@@ -1,6 +1,6 @@
 # About Me:
-- Been on Earth since: 17 Years 
-- Currently in High school
+- Been on Earth since: 18 Years 
+- Currently in ITNU-Nirma University, India. CSE BTech First year student
 - In recent past learning Image/Vid processing
 - How to reach me: My Discord - Yaruki#9646
 
